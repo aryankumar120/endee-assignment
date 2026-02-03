@@ -20,3 +20,6 @@ data/*
 # Frontend
 frontend/
 frontend/*
+
+# Local environment secrets
+talk-endee/.env
